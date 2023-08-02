@@ -1,5 +1,4 @@
-function Get-Holidays
-{
+function Get-Holidays {
 <#
 .SYNOPSIS
     Returns an array of observed holidays
